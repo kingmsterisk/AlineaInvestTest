@@ -11,6 +11,8 @@ class AlineaTabbarController: UITabBarController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        //// Set the bottom tab bar here
         let searchScreen = UINavigationController(rootViewController: SearchController())
         searchScreen.tabBarItem = UITabBarItem(tabBarSystemItem: .search, tag: 0)
         
