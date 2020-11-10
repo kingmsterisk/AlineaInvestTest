@@ -2,7 +2,7 @@
 //  AlineaDemoUITests.swift
 //  AlineaDemoUITests
 //
-//  Created by Rahul Patel on 09/11/20.
+//  Created by Mayank(King) 09/11/20.
 //
 
 import XCTest
